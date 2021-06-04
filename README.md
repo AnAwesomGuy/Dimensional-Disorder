@@ -1,3 +1,3 @@
 # Dimensional-Disorder
 Official Github repository for my Dimensional Disorder pack.
-This is thee place to 
+This is the place to post issues and such.
